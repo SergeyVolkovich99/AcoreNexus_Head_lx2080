@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name ferra_head)(type KiCad)(uri ${KIPRJMOD}/ferra_head.pretty)(options "")(descr ""))
+)
